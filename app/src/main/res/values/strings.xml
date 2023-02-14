@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="ba_e">Baшe имя:</string>
+    <string name="ok">OK</string>
+    <string name="edit">edit</string>
+    <string name="exit">exit</string>
+    <string name="delete">delete</string>
+    <string name="add">add</string>
 </resources>
