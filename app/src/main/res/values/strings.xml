@@ -6,4 +6,7 @@
     <string name="exit">exit</string>
     <string name="delete">delete</string>
     <string name="add">add</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_subscribes">Subscribes</string>
 </resources>
